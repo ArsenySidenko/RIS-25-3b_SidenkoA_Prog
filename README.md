@@ -1,5 +1,5 @@
-### RIS-25-3b_SidenkoA_Prog
+# RIS-25-3b_SidenkoA_Prog
 
 ## SIM1-SIM2 study(C++)_lab
 
-# Teacher : ## Polyakova O.A.
+### Teacher : > Polyakova O.A.
