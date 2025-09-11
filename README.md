@@ -7,6 +7,7 @@
 
 ### Teacher : 
 
+ <h4> PolyakovaO.A </h4>
 
 <h2> SIM 1 </h2>
 
@@ -17,12 +18,16 @@
   <label>
     
  <input type="checkbox" name="Lab" value="pass" value="fail" > 
-[x] 1. lab
+ lab 1
  <br>
-[x] 2. lab
+ lab 2
  <br>
-[x] 3. lab
+ lab 3
   
   </label>
 
 </from>
+
+|Lab1|Lab2|Lab3|
+|----|----|-----|
+|comits|comits|comits|
