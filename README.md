@@ -10,11 +10,16 @@
 
 3. lab
                       
-<from>
+<from> 
+  
   <label>
+    
  <input type="checkbox">
+ 
   1. lab
   2. lab
   3. lab
+  
   </label>
+
 </from>
