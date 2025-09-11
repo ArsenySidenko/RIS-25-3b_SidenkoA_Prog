@@ -11,8 +11,7 @@
   
   <label>
     
- <input type="checkbox" name="Lab" value="pass" value="fail" >
- 
+ <input type="checkbox" name="Lab" value="pass" value="fail" > 
   1. lab
   2. lab
   3. lab
