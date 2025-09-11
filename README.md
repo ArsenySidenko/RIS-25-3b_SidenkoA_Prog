@@ -12,11 +12,11 @@
   <label>
     
  <input type="checkbox" name="Lab" value="pass" value="fail" > 
-  1. lab
-  
-  2. lab
-    
-  3. lab
+ 1. lab
+ <br>
+ 2. lab
+ <br>
+ 3. lab
   
   </label>
 
