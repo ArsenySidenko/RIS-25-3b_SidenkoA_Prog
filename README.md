@@ -4,4 +4,5 @@
 
 ### Teacher : 
 
-> Polyakova O.A.
+> ** Polyakova O.A. **
+
